@@ -1,5 +1,4 @@
-import "zone.js";
-import "es-module-shims"
+import 'zone.js/dist/zone';
 import { bootstrapApplication } from '@angular/platform-browser';
 import { appConfig } from './app/app.config';
 import { AppComponent } from './app/app.component';

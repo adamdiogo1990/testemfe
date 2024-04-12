@@ -64,8 +64,7 @@
 						"index": "src/index.html",
 						"browser": "src/main.ts",
 						"polyfills": [
-							"es-module-shims",
-							"zone.js"
+							"es-module-shims"
 						],
 						"tsConfig": "tsconfig.app.json",
 						"assets": [
